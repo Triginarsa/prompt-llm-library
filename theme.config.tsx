@@ -251,7 +251,7 @@ const config: DocsThemeConfig = {
     toggleButton: true,
   },
   toc: {
-    backToTop: true,
+    // backToTop: true,
     extraContent: (
       // eslint-disable-next-line @next/next/no-img-element -- ignore since url is external and dynamic
       <div>
