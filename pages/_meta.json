@@ -1,0 +1,17 @@
+{
+  "index": "Perkenalan",
+  "intro2": "13 Tipe Perintah di ChatGPT",
+  "intro3": "Bagaimana Cara Kerja ChatGPT",
+  "intro4": "Cara Menggunakan Produk Ini",
+  "membangun-online-funnel": "Membangun Online Funnel",
+  "tentang-kami": {
+    "title": "Tentang Kami",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Kontak ↗",
+    "type": "page",
+    "href": "https://twitter.com/halokreatifika",
+    "newWindow": true
+  }
+}
