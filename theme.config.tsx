@@ -260,14 +260,14 @@ const config: DocsThemeConfig = {
       </div>
     ),
     float: true,
-    headingComponent: function Heading({ id, children }) {
-      return (
-        <>
-          {children}
-          {id === "installation" && " 💿"}
-        </>
-      );
-    },
+    // headingComponent: function Heading({ id, children }) {
+    //   return (
+    //     <>
+    //       {children}
+    //       {id === "installation" && " 💿"}
+    //     </>
+    //   );
+    // },
   },
   useNextSeoProps() {
     const { locale } = useRouter();
