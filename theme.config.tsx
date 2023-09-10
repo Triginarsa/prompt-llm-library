@@ -237,7 +237,7 @@ const config: DocsThemeConfig = {
   //   link: "https://github.com/vercel/swr",
   // },
   sidebar: {
-    autoCollapse: true,
+    // autoCollapse: true,
     defaultMenuCollapseLevel: 1,
     titleComponent: ({ title, type }) =>
       type === "separator" ? (
